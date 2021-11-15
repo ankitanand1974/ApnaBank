@@ -137,29 +137,19 @@ hr.dotted {
 
 
 
-  /* @media (max-width: 1028px) {
-
-    #title {
-      text-align: center;
-    }
-  
-    .title-image {
-      width: 60%;
-      position: static;
-      transform: rotate(0);
-    }
-  
-  
-  } */
-
-  
 
   @media (max-width: 1027px){
      .button{
-         margin-top: 4rem;
+         margin-top: 2rem;
+         text-align: center;
      }
   }
 
   @media (max-width: 990px){
-      
+    .responsiveh1{
+        padding-top: 50%;
+        font-size: 5rem;
+        line-height:55% ;
+        
+    }
   }
