@@ -149,6 +149,10 @@ hr.dotted {
     .responsiveh1{
         padding-top: 50%;
         line-height:55% ;
-        
+        margin: auto;
+        text-align: center;
+    }
+    .button{
+        margin: auto 10% auto 10%;
     }
   }
